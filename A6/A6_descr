@@ -1,0 +1,4 @@
+A6. Discover cryptographic implementation used offline.
+
+Door fob (Photo 1) that is used in my dorm to access the room is the example of an offline cryptography implementation. 
+It has MIFARE Classic 1K system to encrypt the key information (Photo 2). It uses the AES encryption standard for its encryption.

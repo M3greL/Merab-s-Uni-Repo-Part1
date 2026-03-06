@@ -1,0 +1,7 @@
+1. https://www.abc.net.au/news/2025-08-11/university-of-western-australia-uwa-suffers-major-data-breach/105636074
+In 2025 there was a cybersecurity incident at UWA when passwords and emails along with other sensitive data was leaked. They had to lock out everybody from the system to change the passwords and fix the damage, no ransomware was detected 
+
+2.https://www.abc.net.au/news/2025-12-28/cyber-attacks-2025-and-ways-to-protect-your-data/106113950
+Qantas aircompany had massive data breach in year 2025. The customers data, emails and other sensetive info was leacked, the data bases with frequent customers and their destination were exposed making them easy target for phishing attacks from hackers
+
+3.
